@@ -34,6 +34,7 @@ Ensure you have the following installed on your system:
    ```sh
    npm start
    ```
+6. Start PostgreSQL in Docker
 
 The application will be accessible at `http://localhost:3000`.
 
